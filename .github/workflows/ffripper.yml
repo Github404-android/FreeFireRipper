@@ -32,3 +32,4 @@ jobs:
              Sleep 60
              $i--
         } while ($i -gt 0)
+[![FREE FIRE RIPPER](https://github.com/inderxkang/FreeFireRipper/actions/workflows/ffripper.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/inderxkang/FreeFireRipper/actions/workflows/ffripper.yml)
